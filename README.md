@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Andres Gomez,
 - 👀 I’m interested in to be a digital nomade working on different program languages,
 - 🌱 I’m currently learning JavaScript,
-- 💞️ I’m looking to collaborate on projects that I can learn and get experience;
+- 💞️ I’m looking to collaborate on projects that I can learn and get experience,
+- 🎾 Tennis and 🏐 Volleyball are my prefer sports,
+- 🦮 Animal lover, especially my doggie niece Sharon;
